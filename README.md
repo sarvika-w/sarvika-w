@@ -11,7 +11,7 @@ I'm a **Software Engineering Undergraduate at UNSW Sydney** with a passion for b
 *   **[Personal Portfolio](link-to-repo)** - Real-time sign language translation using Computer Vision.
 *   **[CrashCast](https://github.com/LiamLynch0/group1-api-content)** - A Java/OOP project focused on design patterns and persistence.
 *   **[Mini Game Dashboard]** - A dashboard with all mini games that users can play with in react js.
-*   **[Events App Prototype](link-to-repo)** - UX/UI focus using Figma for event planning workflows.
+*   **[Events App Prototype](https://www.figma.com/proto/dyIrB6CGvvFp1OhYGSgxkd/User-Persona?node-id=424-17659&t=WMCQyZt5hdfhrZn1-1&starting-point-node-id=424%3A17645))** - UX/UI focus using Figma for event planning workflows.
 
 ### 🤝 Leadership & Community
 - **CSESoc Mentor** @ UNSW
