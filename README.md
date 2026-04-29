@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Sarvika Wanzare! 👋 
+
+I'm a **Software Engineering Undergraduate at UNSW Sydney** with a passion for building inclusive, secure, and impactful technology. I have a strong foundation in full-stack development, frontend, and computer vision.
+
+### 🛠 Tech Stack
+*   **Languages:** JavaScript, TypeScript, Python, Java, C, C++, Objective-C, SQL, HTML/CSS
+*   **Frameworks:** React, Next.js, Node.js, Express.js
+*   **Tools:** Git, Docker, Figma, Vite, VS Code, Jira, Confluence
+
+### 🌟 Featured Projects
+*   **[Personal Portfolio](link-to-repo)** - Real-time sign language translation using Computer Vision.
+*   **[CrashCast](link-to-repo)** - A Java/OOP project focused on design patterns and persistence.
+*   **[Mini Game Dashboard]** - A dashboard with all mini games that users can play with in react js.
+*   **[Events App Prototype](link-to-repo)** - UX/UI focus using Figma for event planning workflows.
+
+### 🤝 Leadership & Community
+- **CSESoc Mentor** @ UNSW
+- **TWEETSoc Executive Member**
+- **UNSW Leadership Foundations** program participant
+
+📫 How to reach me: [sarvikawanzare.se@gmail.com](mailto:sarvikawanzare.se@gmail.com) 
+
 
 <!--
 **sarvika-w/sarvika-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
