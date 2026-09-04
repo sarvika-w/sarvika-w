@@ -12,7 +12,7 @@ I'm a **Software Engineering Undergraduate at UNSW Sydney** with a passion for b
 *   **[CrashCast](https://github.com/LiamLynch0/group1-api-content)** - A web app made to give insights on how rainfall affects traffic incidents.
 *   **[Mini Game Dashboard](https://github.com/sarvika-w/games)** - A dashboard with all mini games that users can play with in react js.
 *   **[Events App Prototype](https://www.figma.com/proto/dyIrB6CGvvFp1OhYGSgxkd/User-Persona?node-id=424-17659&t=WMCQyZt5hdfhrZn1-1&starting-point-node-id=424%3A17645)** - UX/UI focus using Figma for event planning workflows.
-*   **[ASL to text](https://github.com/sarvika-w/asl_to_typed_letters/tree/main))** - An American sign language letter identification to text converter using mediaPipe, Computer vision and written in HTML.
+*   **[ASL to text ](https://github.com/sarvika-w/asl_to_typed_letters/tree/main)** - An American sign language letter identification to text converter using mediaPipe, Computer vision and written in HTML.
 
 ### 🤝 Leadership & Community
 - **CSESoc Mentor** @ UNSW
